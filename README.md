@@ -1,3 +1,4 @@
+https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Eastern_Washington_University_Seal.svg/1200px-Eastern_Washington_University_Seal.svg.png
 # Course-Work
  This is my main repository showcasing all the class work I've done while attending Eastern Washington University.
 
