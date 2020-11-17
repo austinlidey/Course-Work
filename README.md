@@ -1,4 +1,4 @@
-![EWU Logo](images/ewu_logo_badge_small.png)
+![EWU Logo](images/ewu_logo_badge_large.png)
 
 
 # Course-Work
