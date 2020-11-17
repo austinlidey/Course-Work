@@ -1,4 +1,4 @@
-![EWU Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Eastern_Washington_University_Seal.svg/1200px-Eastern_Washington_University_Seal.svg.png)
+![EWU Logo](https://i.ibb.co/Pc7HzNk/1200px-Eastern-Washington-University-Seal-svg-34.png)
 
 
 # Course-Work
